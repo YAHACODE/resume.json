@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Yahya Bouhlel",
+    "label": "Programmer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/091/29c/0232e84.jpg",
+    "email": "yahiabouhlell@gmail.com",
+    "phone": "00216 98402262",
+    "website": "",
+    "summary": "I'm a mobile game developer I love building games and solving problems.",
+    "location": {
+      "address": "Tunisia",
+      "postalCode": "",
+      "city": "Sousse",
+      "countryCode": "",
+      "region": "Tunisia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "YAHACODE",
+        "url": "https://github.com/YAHACODE"
+      },
+      {
+        "network": "linkedin",
+        "username": "yahyabouhlel",
+        "url": "tn.linkedin.com/in/yahyabouhlel/"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [
+    {
+      "organization": "International Red Cross and Red Crescent Movement",
+      "position": "Volunteer",
+      "website": "",
+      "startDate": "2013-11-05",
+      "endDate": "2016-11-05",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sousse high school",
+      "area": "Tunisia",
+      "studyType": "High school",
+      "startDate": "2012-01-01",
+      "endDate": "2016-06-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Art Award",
+      "date": "2014-08-16",
+      "awarder": "Make school",
+      "summary": "For creating art assets, user interface elements, and animations for my iOS game."
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Mobile Game Development",
+      "level": "Master",
+      "keywords": [
+        "Objective C",
+        "Cocos2d",
+        "Spritebuilder",
+        " iOS",
+        "Java"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "French",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Game development, Tennis, Making shorts movies, Photography, Maths",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
